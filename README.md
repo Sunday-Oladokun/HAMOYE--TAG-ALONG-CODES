@@ -1,3 +1,3 @@
-# HAMOYE: TAG ALONG CODES
+# HAMOYE
  
-Tag along project submission for Introduction to python for machine learning
+This repository documents my practise codes and tag along projects during Hamoye Internship
